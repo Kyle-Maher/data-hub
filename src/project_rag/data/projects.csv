@@ -1,0 +1,7 @@
+project_name,owner,start_date,end_date,status,completion_pct,notes
+Website Redesign,Alice Chen,2025-01-10,2025-04-30,In Progress,65,Waiting on brand assets from design team
+Mobile App v2,Bob Torres,2025-02-01,2025-06-15,In Progress,40,Backend API complete; frontend in development
+Data Warehouse Migration,Carol Singh,2024-11-01,2025-03-31,Delayed,80,Vendor delays pushed deadline; new target May 15
+Customer Portal,Dave Kim,2025-03-01,2025-08-01,On Track,20,Requirements signed off; dev starting Q2
+Internal HR System,Eve Patel,2024-09-01,2025-02-28,Complete,100,Launched successfully; in hypercare period
+Security Audit,Frank Lee,2025-04-01,2025-05-15,Not Started,0,Waiting for external auditor contract
